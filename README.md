@@ -113,6 +113,4 @@ Viewing The Schedule for Each Contact
 1.	 This report will display the schedule for a specified contact. The report will populate in the table shown.
 2.	To generate this report, select the drop-down menu and chose which contact you would like to see more information for. 
 3.	Once you have selected a contact, press the Show Appointments button to generate the report in the table below.
- 
 
-![image](https://github.com/asparkmanb/Software-2-Appointment-Scheduler/assets/26096483/1dee7e78-7763-4243-a7da-b8f370e8fdc6)
