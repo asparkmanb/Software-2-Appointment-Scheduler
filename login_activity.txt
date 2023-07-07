@@ -1,0 +1,124 @@
+User: adm | Date/Time in EST: 2023-04-21T13:00:22.549973200-04:00[America/New_York] | Successful: No
+
+User: admi | Date/Time in EST: 2023-04-21T13:00:26.770818600-04:00[America/New_York] | Successful: No
+
+User: admin | Date/Time in EST: 2023-04-21T13:00:35.004557600-04:00[America/New_York] | Successful: Yes
+
+User: adm | Date/Time in EST: 2023-04-21T13:05:38.904483200-04:00[America/New_York] | Successful: No
+
+User: admi | Date/Time in EST: 2023-04-21T13:05:42.769350-04:00[America/New_York] | Successful: No
+
+User: admin | Date/Time in EST: 2023-04-21T13:05:47.158849400-04:00[America/New_York] | Successful: Yes
+
+User: test | Date/Time in EST: 2023-04-21T13:06:01.697415100-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T13:56:12.879820-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T13:57:10.495630800-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T13:59:16.680651500-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:00:18.280130900-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:01:09.931031700-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:08:03.828044800-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:08:45.185914400-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:10:26.038449700-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:11:27.740275600-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:12:01.949594500-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:12:46.479126800-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:13:52.083711800-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:15:12.485132100-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:24:04.919517900-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:27:32.474987400-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:28:26.146242700-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:31:59.433038400-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:34:54.165713500-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:35:58.853690600-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:38:29.363743100-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:40:16.406444500-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:41:03.963008600-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:41:31.855745900-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:41:52.186659600-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:45:47.045333400-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:47:08.367836-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:49:01.317026200-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:50:26.749717-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:52:23.401745900-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:54:52.761442300-04:00[America/New_York] | Successful: No
+
+User: admin | Date/Time in EST: 2023-04-21T14:55:02.287517600-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:55:44.677469500-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:58:34.634067600-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T14:59:59.454753800-04:00[America/New_York] | Successful: Yes
+
+User: test | Date/Time in EST: 2023-04-21T15:02:27.824724200-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T16:02:53.295601800-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T16:07:10.976618100-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T16:08:01.439609400-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T16:10:32.744972300-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T16:11:23.675494700-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T16:12:21.855663500-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T16:14:24.035889600-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T16:15:47.431609-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T16:16:26.836796900-04:00[America/New_York] | Successful: Yes
+
+User: test | Date/Time in EST: 2023-04-21T16:17:48.896844-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T19:49:29.136323400-04:00[America/New_York] | Successful: No
+
+User: admin | Date/Time in EST: 2023-04-21T19:49:43.497446300-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T19:57:22.125105500-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-21T19:57:53.967100700-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-22T18:52:17.301956200-04:00[America/New_York] | Successful: No
+
+User: admin | Date/Time in EST: 2023-04-22T18:52:32.427785100-04:00[America/New_York] | Successful: Yes
+
+User: adm | Date/Time in EST: 2023-04-22T18:57:01.878812200-04:00[America/New_York] | Successful: No
+
+User: admin | Date/Time in EST: 2023-04-26T14:19:56.189596100-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-26T14:22:28.510464700-04:00[America/New_York] | Successful: Yes
+
+User: admin | Date/Time in EST: 2023-04-26T14:26:21.958528700-04:00[America/New_York] | Successful: Yes
+
